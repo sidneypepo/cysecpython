@@ -12,5 +12,5 @@ CySecPython é um projeto que visa a análise e compreensão dos três tipos de 
 ## O que é engenharia social?
 Esta é a técnica mais utilizada por hacke...
 
-# Clique [aqui](https://colab.research.google.com/drive/1LC_vtQShFpThjNMEe8cjiEXjM5uKssR7?usp=sharing) para ler o artigo através do Google Colab ou [aqui]() para ler o artigo através do GitHub!
+# Clique [aqui](https://colab.research.google.com/drive/1LC_vtQShFpThjNMEe8cjiEXjM5uKssR7?usp=sharing) para ler o artigo através do [Google Colab](https://colab.research.google.com/drive/1LC_vtQShFpThjNMEe8cjiEXjM5uKssR7?usp=sharing) ou [aqui]() para ler o artigo através do [GitHub]()!
 # [Acesse nosso vídeo de apresentação do projeto!]()
