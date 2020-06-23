@@ -1,7 +1,7 @@
 # **CySecPython**
 <img src="https://s7.gifyu.com/images/introf3009454ed68c0ef.gif" width="650" align="right"/>
 
-<img src=""/>
+<img src="https://github.com/sidneypepo/cysecpython/blob/master/files/logo.png"/>
 
 # **Sobre o projeto**
 
