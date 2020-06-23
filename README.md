@@ -1,6 +1,6 @@
 # **CySecPython**
-<img src="https://github.com/sidneypepo/cysecpython/blob/master/files/intro.gif" width="650" align="right"/>
-
+<img src="https://github.com/sidneypepo/cysecpython/blob/master/files/intro.gif" width="650" align="center"/>
+</br>
 <img src="https://github.com/sidneypepo/cysecpython/blob/master/files/logo.png"/>
 
 # **Sobre o projeto**
