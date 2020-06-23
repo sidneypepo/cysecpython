@@ -1,21 +1,7 @@
 # **CySecPython**
 <img src="https://s7.gifyu.com/images/introf3009454ed68c0ef.gif" width="650" align="right"/>
 
-In [0]:
-#Imprimindo banner
-print(".s5SSSs.          .s5SSSs.                      .s5SSSs.                                                 \nsS    SS. .s5 s.  sS    SS. .s5SSSs.  .s5SSSs.  sS    SS. .s5 s.  .s5SSSSs. .s    s.  .s5SSSs.  .s    s.\nsS    `:;     SS. sS    `:;       SS.       SS. sS    S%S     SS.    SSS          SS.       SS.       SS.\nSS        ssS SSS SS        sS    `:; sS    `:; SS    S%S ssS SSS    S%S    sS    S%S sS    S%S sSs.  S%S\nSS         SSSSS  `:;;;;.   SSSs.     SS        SS .sS::'  SSSSS     S%S    SSSs. S%S SS    S%S SS `S.S%S\nSS          SSS         ;;. SS        SS        SS          SSS      S%S    SS    S%S SS    S%S SS  `sS%S\nSS          `:;         `:; SS        SS        SS          `:;      `:;    SS    `:; SS    `:; SS    `:;\nSS    ;,.   ;,.   .,;   ;,. SS    ;,. SS    ;,. SS          ;,.      ;,.    SS    ;,. SS    ;,. SS    ;,.\n`:;;;;;:'   ;:'   `:;;;;;:' `:;;;;;:' `:;;;;;:' `:          ;:'      ;:'    :;    ;:' `:;;;;;:' :;    ;:'\n")
-print("\033[0;37;40m---------------------> Coded by Euclides Neto, Jonathan Andriel e & Sidney 'PEPO' <----------------------\033[0;37;40m")
-.s5SSSs.          .s5SSSs.                      .s5SSSs.                                                 
-sS    SS. .s5 s.  sS    SS. .s5SSSs.  .s5SSSs.  sS    SS. .s5 s.  .s5SSSSs. .s    s.  .s5SSSs.  .s    s.
-sS    `:;     SS. sS    `:;       SS.       SS. sS    S%S     SS.    SSS          SS.       SS.       SS.
-SS        ssS SSS SS        sS    `:; sS    `:; SS    S%S ssS SSS    S%S    sS    S%S sS    S%S sSs.  S%S
-SS         SSSSS  `:;;;;.   SSSs.     SS        SS .sS::'  SSSSS     S%S    SSSs. S%S SS    S%S SS `S.S%S
-SS          SSS         ;;. SS        SS        SS          SSS      S%S    SS    S%S SS    S%S SS  `sS%S
-SS          `:;         `:; SS        SS        SS          `:;      `:;    SS    `:; SS    `:; SS    `:;
-SS    ;,.   ;,.   .,;   ;,. SS    ;,. SS    ;,. SS          ;,.      ;,.    SS    ;,. SS    ;,. SS    ;,.
-`:;;;;;:'   ;:'   `:;;;;;:' `:;;;;;:' `:;;;;;:' `:          ;:'      ;:'    :;    ;:' `:;;;;;:' :;    ;:'
-
----------------------> Coded by Euclides Neto, Jonathan Andriel e & Sidney 'PEPO' <----------------------
+<img src=""/>
 
 # **Sobre o projeto**
 
