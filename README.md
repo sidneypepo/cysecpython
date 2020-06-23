@@ -1,7 +1,7 @@
 # **CySecPython**
-<img src="https://github.com/sidneypepo/cysecpython/blob/master/files/intro.gif" width="650" align="right"/></br>
-
-</br><img src="https://github.com/sidneypepo/cysecpython/blob/master/files/logo.png"/>
+<img src="https://github.com/sidneypepo/cysecpython/blob/master/files/intro.gif" width="650" align="right"/>
+<p>
+<img src="https://github.com/sidneypepo/cysecpython/blob/master/files/logo.png"/>
 
 # **Sobre o projeto**
 
@@ -12,5 +12,5 @@ CySecPython é um projeto que visa a análise e compreensão dos três tipos de 
 ## O que é engenharia social?
 Esta é a técnica mais utilizada por hacke...
 
-# [Clique aqui para ler o artigo completo!](https://colab.research.google.com/drive/1LC_vtQShFpThjNMEe8cjiEXjM5uKssR7?usp=sharing)
-# [Ou aqui para ver nosso vídeo de apresentação do projeto!]()
+# Clique [aqui](https://colab.research.google.com/drive/1LC_vtQShFpThjNMEe8cjiEXjM5uKssR7?usp=sharing) para ler o artigo através do Google Colab ou [aqui]() para ler o artigo através do GitHub!
+# [Acesse nosso vídeo de apresentação do projeto!]()
