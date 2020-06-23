@@ -1,5 +1,5 @@
 # **CySecPython**
-<img src="https://github.com/sidneypepo/cysecpython/blob/master/files/intro.gif" width="650" align="center"/>
+<center><img src="https://github.com/sidneypepo/cysecpython/blob/master/files/intro.gif" width="650"/></center>
 </br>
 <img src="https://github.com/sidneypepo/cysecpython/blob/master/files/logo.png"/>
 
