@@ -20,5 +20,5 @@ Além disso, foi desenvolvido para critérios avaliativos do curso Introdução 
 ## O que é engenharia social?
 Esta é a técnica mais utilizada por hacke...
 
-# Clique [aqui](https://colab.research.google.com/drive/1LC_vtQShFpThjNMEe8cjiEXjM5uKssR7?usp=sharing) para ler o artigo através do [Google Colab](https://colab.research.google.com/drive/1LC_vtQShFpThjNMEe8cjiEXjM5uKssR7?usp=sharing) ou [aqui](https://github.com/sidneypepo/cysecpython/blob/master/CySecPython.ipynb) para ler o artigo através do [GitHub](https://github.com/sidneypepo/cysecpython/blob/master/CySecPython.ipynb)!
+# Clique [aqui](https://colab.research.google.com/drive/1LC_vtQShFpThjNMEe8cjiEXjM5uKssR7?usp=sharing) para ler o artigo através do [Google Colab](https://colab.research.google.com/drive/1LC_vtQShFpThjNMEe8cjiEXjM5uKssR7?usp=sharing) ou [aqui](https://github.com/sidneypepo/cysecpython/blob/master/cysecpython.ipynb) para ler o artigo através do [GitHub](https://github.com/sidneypepo/cysecpython/blob/master/cysecpython.ipynb)!
 # [Acesse nosso vídeo de apresentação do projeto!](https://youtube.com/watch?v=bKj17RG62HQ)
