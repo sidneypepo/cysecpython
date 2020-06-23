@@ -5,7 +5,15 @@
 
 # **Sobre o projeto**
 
-CySecPython é um projeto que visa a análise e compreensão dos três tipos de ataques cibernéticos de engenharia social mais utilizados na atualidade, criado por Euclides Neto, Jonathan Andriel, e Sidney Pedro. O projeto foi orientado pelo professor Carlos Artur Guimarães, através do Integra School do Instituto Metrópole Digital da Universidade Federal do Rio Grande do Norte (IMD-UFRN). Além disso, foi desenvolvido para critérios avaliativos do curso Introdução à Programação com Python, seguindo o nono objetivo da Organização das Nações Unicas para o ano de 2030 (ONU 2030), "construir infraestruturas resilientes, promover a industrialização inclusiva e sustentável e fomentar a inovação". 
+CySecPython é um projeto que visa a análise e compreensão dos três tipos de ataques cibernéticos de engenharia social mais utilizados na atualidade, criado por: 
+*   Euclides Neto
+*   Jonathan Andriel
+*   Sidney Pedro
+
+O projeto foi orientado pelo professor 
+*   Carlos Artur Guimarães, através do Integra School do Instituto Metrópole Digital da Universidade Federal do Rio Grande do Norte (IMD-UFRN). 
+
+Além disso, foi desenvolvido para critérios avaliativos do curso Introdução à Programação com Python, seguindo o nono objetivo da Organização das Nações Unidas para o ano de 2030 (ONU 2030), "construir infraestruturas resilientes, promover a industrialização inclusiva e sustentável e fomentar a inovação". 
 
 <img src="https://hongkong.imd.ufrn.br/filemanagerportal/source/2020/Integra_School.png" width="600"/>
 
