@@ -1,5 +1,5 @@
 # **CySecPython**
-<center><img src="https://github.com/sidneypepo/cysecpython/blob/master/files/intro.gif" width="650"/></center>
+<img src="https://github.com/sidneypepo/cysecpython/blob/master/files/intro.gif" width="650" align="right"/>
 </br>
 <img src="https://github.com/sidneypepo/cysecpython/blob/master/files/logo.png"/>
 
@@ -10,4 +10,7 @@ CySecPython é um projeto que visa a análise e compreensão dos três tipos de 
 <img src="https://hongkong.imd.ufrn.br/filemanagerportal/source/2020/Integra_School.png" width="600"/>
 
 ## O que é engenharia social?
-Esta é a técnica mais utilizada por hackers, crackers e criminosos em geral, na qual consiste em um atacante manipular, persuadir ou enganar uma vítima de tal forma que a mesma forneça informações pessoais, credenciais de acesso ou até mesmo acesso lícito ou ilícito de seus dispositivos informáticos sem ter consciência de tal ato.
+Esta é a técnica mais utilizada por hacke...
+
+# [Clique aqui para ler o artigo completo!](https://colab.research.google.com/drive/1LC_vtQShFpThjNMEe8cjiEXjM5uKssR7?usp=sharing)
+# [Ou aqui para ver nosso vídeo de apresentação do projeto!]()
